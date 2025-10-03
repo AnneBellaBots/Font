@@ -6,6 +6,8 @@ The bot provides a simple way for Telegram users to apply different fonts to the
 
 Link for the bot: [Font Changer Bot](https://t.me/FontChanger_Bot)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnneBellaBots/Font)
+
 ## How to run the bot locally
 
 To run the bot on your local machine, follow these steps:
